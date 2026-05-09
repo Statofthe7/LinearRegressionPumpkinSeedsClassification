@@ -4,7 +4,7 @@
 This program classifies pumpkin seed types using machine learning. The dataset contains various features of pumpkin seeds, which are used to train a linear regression model for classification.
 
 ## Dataset
-The dataset used in this project is the 'Pumpkin Seeds Dataset' from KaggleHub. It contains 13 features describing pumpkin seeds and a 'Class' label indicating the seed type.
+The dataset used in this project is the 'Pumpkin Seeds Dataset' from KaggleHub. It contains 13 features describing pumpkin seeds and a 'Class' label indicating the seed type. Source: muratkokludataset/pumpkin-seeds-dataset
 
 ## Key Steps
 1.  **Data Loading**: Downloading and loading the pumpkin seeds dataset.
